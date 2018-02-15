@@ -1,0 +1,12 @@
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\IPlugin.dll
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\PluginLoader.dll
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\IPlugin.pdb
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\PluginLoader.pdb
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\Plugin1.dll
+C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\Plugin1.pdb
