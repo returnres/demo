@@ -32,6 +32,7 @@ namespace ConsoleApplication1
                                 if(GetTrue(numbers, filterExpression))
                                     Console.WriteLine("ci sono numeri > 10");
 
+                                filterExpression = number => number <= 10;
                                 //Console.WriteLine("Developer: {0}", dbi.Developer);
                                 //Console.WriteLine("Remarks: {0}", dbi.Message);
 
