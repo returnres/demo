@@ -10,3 +10,6 @@ C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleAppli
 C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\Plugin1.dll
 C:\Users\roberto.INT\Documents\Visual Studio 2015\Projects\WebSite1\ConsoleApplication1\bin\Debug\Plugin1.pdb
+C:\MieProgetti\AnotherDemo\WebSite1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\MieProgetti\AnotherDemo\WebSite1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\MieProgetti\AnotherDemo\WebSite1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

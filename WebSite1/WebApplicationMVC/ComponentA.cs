@@ -6,10 +6,10 @@ using System.Web;
 
 namespace WebApplicationMVC
 {
-    public class ServiceA : IService
+    public class ComponentA : IService
     {
         private IServiceB _serviceB;
-        public ServiceA(IServiceB serviceB)
+        public ComponentA(IServiceB serviceB)
         {
             this._serviceB = serviceB;
         }

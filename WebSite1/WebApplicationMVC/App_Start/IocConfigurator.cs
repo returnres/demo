@@ -35,15 +35,13 @@ namespace WebApplicationMVC.App_Start
             // OPTIONAL: Enable property injection into action filters.
             //builder.RegisterFilterProvider();
 
-            //builder.RegisterType<IService>().As<ServiceA>();
+            //builder.RegisterType<IService>().As<ComponentA>();
             var conn = System.Configuration.ConfigurationManager.
                 ConnectionStrings["DefaultConnection"].ConnectionString;
 
-            builder.RegisterType<ServiceA>().As<IService>().InstancePerDependency();
-            builder.RegisterType<ServiceB>().As<IServiceB>().WithParameter("conn", conn).InstancePerDependency();
+            builder.RegisterType<ComponentA>().As<IService>().InstancePerDependency();
+            builder.RegisterType<ComponentB>().As<IServiceB>().WithParameter("conn", conn).InstancePerDependency();
 
-            //builder.RegisterType<Repository<Student>>().As<IRepository<Student>>();
-            //builder.RegisterType<SchoolContext>().InstancePerRequest();
 
             // Set the dependency resolver to be Autofac.
             var container = builder.Build();

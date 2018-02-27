@@ -187,8 +187,8 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ServiceA.cs" />
-    <Compile Include="ServiceB.cs" />
+    <Compile Include="ComponentA.cs" />
+    <Compile Include="ComponentB.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="TestClass.cs" />
   </ItemGroup>

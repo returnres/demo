@@ -5,10 +5,10 @@ using System.Web;
 
 namespace WebApplicationMVC
 {
-    public class ServiceB : IServiceB
+    public class ComponentB : IServiceB
     {
         private string _conn;
-        public ServiceB(string conn)
+        public ComponentB(string conn)
         {
             this._conn = conn;
         }
