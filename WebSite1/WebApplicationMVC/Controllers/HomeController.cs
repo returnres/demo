@@ -9,6 +9,17 @@ namespace WebApplicationMVC.Controllers
 {
     public class HomeController : Controller
     {
+        private IService _service;
+        //private readonly IRepository<Student> _studentRepository;
+        public HomeController(IService service)
+        {
+            this._service = service;
+        }
+        //public HomeController(IRepository<Student> studentRepository)
+        //{
+        //    this._studentRepository = studentRepository;
+        //}
+
         public async Task<ActionResult> Index()
         {
             TestClass test= new TestClass();
